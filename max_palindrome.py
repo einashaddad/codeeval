@@ -1,5 +1,5 @@
 """
-Prime Palindrome
+Prime Palindrome (Difficulty: Easy)
 
 Challenge Description:
 

@@ -15,6 +15,6 @@ with open(sys.argv[1], 'r') as f:
         remove_stutters(test)
  
 
-test case: '1,1,1,2,2,3,3,4,4\n'
+#test case: '1,1,1,2,2,3,3,4,4\n'
 
 #hint use while!
